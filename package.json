@@ -1,0 +1,18 @@
+{
+  "name": "getlocation",
+  "version": "1.0.0",
+  "description": "get the locations of target on click to the link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
